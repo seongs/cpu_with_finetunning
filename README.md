@@ -14,8 +14,8 @@
 pip install -r requirements.txt
 ```
 
-### 참조
-이 프로젝트는 Eduardo Alvarez의 블로그 포스트를 참조하였습니다. 링크는 아래 확인 부탁드립니다.\n
+### 참조<>
+이 프로젝트는 Eduardo Alvarez의 블로그 포스트를 참조하였습니다. 링크는 아래 확인 부탁드립니다.<br/>
 https://eduand-alvarez.medium.com/fine-tune-falcon-7-billion-on-xeon-cpus-with-hugging-face-and-oneapi-a25e10803a53
 
 ### 사용방법
